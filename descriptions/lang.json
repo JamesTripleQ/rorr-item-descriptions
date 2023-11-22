@@ -1630,48 +1630,48 @@
 		},
 		"rottenBrain": {
 			"name": "Rotten Brain",
-			"pickup": "Throw a brain that bounces in place, damaging/slowing enemies for <y>6x200%.</c>",
-			"description": "Throw a brain that bounces in place, damaging/slowing enemies for <y>6x200%.</c>",
+			"pickup": "Throw a brain that bounces in place, damaging/slowing enemies for <y>6x200%.</c> <spr ChatIconTimedItem></c> <b>30 sec.</c>",
+			"description": "Throw a brain that bounces in place, damaging/slowing enemies for <y>6x200%.</c> <spr ChatIconTimedItem></c> <b>30 sec.</c>",
 			"destination": "4120,\nFrazux Colony,\nMars",
 			"date": "2/14/2056",
 			"story": "You really messed that up, didn't you? Dammit. The ****ing thing is bouncing, Harold. How the hell are we supposed to do ANYTHING with this? Now we will never know the truth. How - how did you even MANAGE to mess up this badly? Consider this useless hunk of grey matter your letter of termination. Keep the damn thing."
 		},
 		"safeguardLantern": {
 			"name": "Safeguard Lantern",
-			"pickup": "Drop a lantern for 10 seconds. <r>Fears</c> and damages enemies for <y>20% damage.</c>",
-			"description": "Drop a lantern for 10 seconds. <r>Fears</c> and damages enemies for <y>20% damage.</c>",
+			"pickup": "Drop a lantern for 10 seconds. <r>Fears</c> and damages enemies for <y>20% damage.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Drop a lantern for 10 seconds. <r>Fears</c> and damages enemies for <y>20% damage.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "The Watch\nCamp 1\nMars",
 			"date": "5/20/2056",
 			"story": "Protects you on the darkest nights. Don't stand too close; some claim to see terrors in the flame. Me? I just see hope."
 		},
 		"snowglobe": {
 			"name": "Snowglobe",
-			"pickup": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>.",
-			"description": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>.",
+			"pickup": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "3rd Igloo,\nTundra Zone,\nNeptune",
 			"date": "11/25/2056",
 			"story": "Here you go honey, I got you a snowglobe! Do you see what's in it? Yeah, it's based off of your favorite video game! I hope you'll love it, I put a lot of effort into it. Cheers!"
 		},
 		"explorersKey": {
 			"name": "Explorer's Key",
-			"pickup": "<b>Open all chests</c> within <y>20 meters</c>.",
-			"description": "<b>Open all chests</c> within <y>20 meters</c>.",
+			"pickup": "<b>Open all chests</c> within <y>20 meters</c>. <spr ChatIconTimedItem></c> <b>90 sec.</c>",
+			"description": "<b>Open all chests</c> within <y>20 meters</c>. <spr ChatIconTimedItem></c> <b>90 sec.</c>",
 			"destination": "Merchants Guild\nMercury",
 			"date": "12/01/2056",
 			"story": "Strange artifact. Seems to be made of nano-technology, allowing it to solidify and liquify at will. I have yet to find a lock this key cannot open. Highly illegal I imagine..\n\nHas opened traditional lock and bolt, card readers, eye scanners, dead bolts, chains, zippers, and my phone password. \nI expect a hefty sum for this, because otherwise.. well.. your guild will simply become obsolete because of one key."
 		},
 		"foreignFruit": {
 			"name": "Foreign Fruit",
-			"pickup": "Heal yourself for <g>50% of your health</c>.",
-			"description": "Heal yourself for <g>50% of your health</c>.",
+			"pickup": "Heal yourself for <g>50% of your health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Heal yourself for <g>50% of your health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Fabien H\n32nd and Pike\nNew Africa\nMars",
 			"date": "5/19/2056",
 			"story": "Ya feelin down?  Then eat Fabien's Nutapple! No preservatives. No chemicals. All fruit. Tastes like an apple and a cashew; together!\nGuaranteed to make you feel 50% healthier or your money back!"
 		},
 		"instantMinefield": {
 			"name": "Instant Minefield",
-			"pickup": "Drop <y>6 mines</c> at your feet, each dealing <y>400% damage</c>.",
-			"description": "Drop <y>6 mines</c> at your feet, each dealing <y>400% damage</c>.",
+			"pickup": "Drop <y>6 mines</c> at your feet, each dealing <y>400% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Drop <y>6 mines</c> at your feet, each dealing <y>400% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "HERCULES 29-5\nCombat Zone 15\nSgt. Snd",
 			"date": "03/09/2056",
 			"story": "Should help in holding choke positions without losing so many men. I know that hercules is simply held because of pride; we've blown any resources we could've mined into the stratosphere by now. \n\nJust simply lay it down and its smart-fire should prevent it from blowing your own legs off. Spits out about six. Realize that it takes about.. 45 seconds to reload the minelayer and about a second to arm.",
@@ -1679,40 +1679,40 @@
 		},
 		"jarOfSouls": {
 			"name": "Jar of Souls",
-			"pickup": "<b>Duplicate every enemy</c> as a <b>ghost</c> to <y>fight on your side</c>. Ghosts last <b>15 seconds</c> and have\n<y>70% damage</c>.",
-			"description": "<b>Duplicate every enemy</c> as a <b>ghost</c> to <y>fight on your side</c>. Ghosts last <b>15 seconds</c> and have <y>70% damage</c>.",
+			"pickup": "<b>Duplicate every enemy</c> as a <b>ghost</c> to <y>fight on your side</c>. Ghosts last <b>15 seconds</c> and have\n<y>70% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "<b>Duplicate every enemy</c> as a <b>ghost</c> to <y>fight on your side</c>. Ghosts last <b>15 seconds</c> and have <y>70% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "O.Crypt 74,\nW. Path,\n??",
 			"date": "6/6/2056",
 			"story": "[The recording only contains wailing and screaming. Would you like to contact authorities? Y/N]"
 		},
 		"carraraMarble": {
 			"name": "Carrara Marble",
-			"pickup": "Place a <b>marble gate</c>. <b>Teleport back</c> to the gate by activating again.",
-			"description": "Place a <b>marble gate</c>. <b>Teleport back</c> to the gate by activating again.",
+			"pickup": "Place a <b>marble gate</c>. <b>Teleport back</c> to the gate by activating again. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Place a <b>marble gate</c>. <b>Teleport back</c> to the gate by activating again. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "King Street,\nTrans. Ctr,\nUnknown",
 			"date": "11/28/2056",
 			"story": "Carrara marble is very hard to find these days. It's been very popular since Ancient Rome; however, most deposits ran out, so a chunk of Carrara marble marks up a pretty price. I'm thinking $800,000 for the amount I'm offering. \n\nYou can make those sculptures you've always dreamed of."
 		},
 		"sawmerang": {
 			"name": "Sawmerang",
-			"pickup": "<b>Throw</c> out a <y>sawmerang</c>, slicing enemies for <y>500% damage</c> and making them <r>bleed for 4x100%\ndamage</c>. Boomerangs back.",
-			"description": "<b>Throw</c> out a <y>sawmerang</c>, slicing enemies for <y>500% damage</c> and making them <r>bleed for 4x100% damage</c>. Boomerangs back.",
+			"pickup": "<b>Throw</c> out a <y>sawmerang</c>, slicing enemies for <y>500% damage</c> and making them <r>bleed for 4x100%\ndamage</c>. Boomerangs back. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "<b>Throw</c> out a <y>sawmerang</c>, slicing enemies for <y>500% damage</c> and making them <r>bleed for 4x100% damage</c>. Boomerangs back. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "North Speck,\nWarehouse lot-88,\nJupiter",
 			"date": "11/13/2056",
 			"story": "This is one of many sawblades that I will be sending for analysis. We still haven't ID'd all the bodies from the factory accident, so its up to you to run dna tests on all the.. blood and flesh. Word of caution: it smells like rotten meat."
 		},
 		"shatteredMirror": {
 			"name": "Shattered Mirror",
-			"pickup": "For 15 seconds, <b>double all your abilities' damage and effects</c>.",
-			"description": "For 15 seconds, <b>double all your abilities' damage and effects</c>.",
+			"pickup": "For 15 seconds, <b>double all your abilities' damage and effects</c>. <spr ChatIconTimedItem></c> <b>75 sec.</c>",
+			"description": "For 15 seconds, <b>double all your abilities' damage and effects</c>. <spr ChatIconTimedItem></c> <b>75 sec.</c>",
 			"destination": "Fox Plaza,\n1711 Box,\nNeptune",
 			"date": "11/17/2056",
 			"story": "I know you; you avoid looking at yourself. You feel disgust at your own reflection; you wish every mirror to be shattered. It is time to change. You are not alone."
 		},
 		"disposableMissileLauncher": {
 			"name": "Disposable Missile Launcher",
-			"pickup": "Fire a swarm of <y>12 missiles</c>, dealing <y>300% damage</c> each.",
-			"description": "Fire a swarm of <y>12 missiles</c>, dealing <y>300% damage</c> each.",
+			"pickup": "Fire a swarm of <y>12 missiles</c>, dealing <y>300% damage</c> each. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Fire a swarm of <y>12 missiles</c>, dealing <y>300% damage</c> each. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Steve Ruxx,\nQuadrant 001,\nMars",
 			"date": "11/3/2056",
 			"story": "So here is a prototype of the disposable missile launcher you requested. The box itself is made of cardboard, which raises some safety issues but also lowers the production costs immensely. The missiles are also the dumb ones that didn't pass inspection the first time around, allowing us to fit sixteen into this!\n\nThe entire thing costs about.. $40. Make sure that you don't store them together; some of the rounds have been observed to explode by themselves.",
@@ -1720,80 +1720,80 @@
 		},
 		"goldPlatedBomb": {
 			"name": "Gold-plated Bomb",
-			"pickup": "Use <y>50% of your gold</c> to create a bomb, dealing <y>1 damage per gold spent</c>. <y>Refund 20% of spent\ngold</c> on kill.",
-			"description": "Use <y>50% of your gold</c> to create a bomb, dealing <y>1 damage per gold spent</c>. <y>Refund 20% of spent gold</c> on kill.",
+			"pickup": "Use <y>50% of your gold</c> to create a bomb, dealing <y>1 damage per gold spent</c>. <y>Refund 20% of spent\ngold</c> on kill. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Use <y>50% of your gold</c> to create a bomb, dealing <y>1 damage per gold spent</c>. <y>Refund 20% of spent gold</c> on kill. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Warpship,\nXeron TC,\nNeptune",
 			"date": "5/28/2056",
 			"story": "Yeah, so? Of course I made a bomb powered by how rich you are. Dude, what? You can't afford a bomb out of money? What are you... poor? It's JUST money."
 		},
 		"droneRepairKit": {
 			"name": "Drone Repair Kit",
-			"pickup": "All <b>drones</c> are repaired to <g>full health</c> and <b>empowered</c> for 8 seconds. <b>Summons a unique drone.</c>",
-			"description": "All <b>drones</c> are repaired to <g>full health</c> and <b>empowered</c> for 8 seconds. <b>Summons a unique drone.</c>",
+			"pickup": "All <b>drones</c> are repaired to <g>full health</c> and <b>empowered</c> for 8 seconds. <b>Summons a unique drone.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "All <b>drones</c> are repaired to <g>full health</c> and <b>empowered</c> for 8 seconds. <b>Summons a unique drone.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "1803-A,\nSouthern Pub,\nMars",
 			"date": "3/17/2056",
 			"story": "We have learned from nature that the best relationships are the symbiotic ones; the nanodrones go and fix up all the scratches and broken pieces of the attack drones, and in return they get scrap metal to replicate. Win-win for both."
 		},
 		"thqwib": {
 			"name": "Thqwib",
-			"pickup": "Release a bloom of <y>30 thqwibs</c>, detonating on impact for <y>200% damage</c>.",
-			"description": "Release a bloom of <y>30 thqwibs</c>, detonating on impact for <y>200% damage</c>.",
+			"pickup": "Release a bloom of <y>30 thqwibs</c>, detonating on impact for <y>200% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Release a bloom of <y>30 thqwibs</c>, detonating on impact for <y>200% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "1803-A,\nSouthern Pub,\nMars",
 			"date": "11/23/2056",
 			"story": "Thqwibs naturally live in very low atmosphere, so the pressurized container is for their own safety. If released into the room, they'll die immediately, so don't.\n\n\nI included approximately 30 thqwibs; despite their similar appearance to other creatures, they are naturally social, and will become depressed if left alone."
 		},
 		"dynamitePlunger": {
 			"name": "Dynamite Plunger",
-			"pickup": "Hitting an enemy drops <y>dynamite</c>. Use to detonate for <y>200% damage</c>.",
-			"description": "Hitting an enemy drops <y>dynamite</c>. Use to detonate for <y>200% damage</c>.",
+			"pickup": "Hitting an enemy drops <y>dynamite</c>. Use to detonate for <y>200% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Hitting an enemy drops <y>dynamite</c>. Use to detonate for <y>200% damage</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "East Hanndor,\nWeapon Facility,\nMars",
 			"date": "9/03/2056",
 			"story": "Another one for you folks. You liked the previous shipment so much, I thought I would send you more outdated tech. When I say outdated, I MEAN outdated. This thing triggers from plunging; while it still uses microwave signals to connect between sticks of dynamite, it is otherwise the same as the classics.\n\n\nLike last time, I assume you'll keep this confidential between us?"
 		},
 		"giganticAmethyst": {
 			"name": "Gigantic Amethyst",
-			"pickup": "<b>Reset all your cooldowns</c>.",
-			"description": "<b>Reset all your cooldowns</c>.",
+			"pickup": "<b>Reset all your cooldowns</c>. <spr ChatIconTimedItem></c> <b>8 sec.</c>",
+			"description": "<b>Reset all your cooldowns</c>. <spr ChatIconTimedItem></c> <b>8 sec.</c>",
 			"destination": "Greivenkamp\n5th Houston St\nPrism Tower\nEarth",
 			"date": "5/12/2056",
 			"story": "Use for focus lasers, I assume. Anyways, this is the biggest one I could find ANYWHERE. Outside of the Crown Amethyst of Venus, which I obviously can't get you, this is the best for your purposes. You'll be able to reach AMAZING quality with this; good luck!"
 		},
 		"crudelyDrawnBuddy": {
 			"name": "Crudely Drawn Buddy",
-			"pickup": "Blow up a decoy, attracting and <b>confusing</c> enemies for <y>8 seconds</c>. Looks just like you.",
-			"description": "Blow up a decoy, attracting and <b>confusing</c> enemies for <y>8 seconds</c>. Looks just like you.",
+			"pickup": "Blow up a decoy, attracting and <b>confusing</c> enemies for <y>8 seconds</c>. Looks just like you. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Blow up a decoy, attracting and <b>confusing</c> enemies for <y>8 seconds</c>. Looks just like you. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "1111,\nMiddle-Ground,\nMars",
 			"date": "11/9/2056",
 			"story": "W-what do you mean? No, no, n-no! It's SUPPOSED to look like that. Yes, with the smudge, and the.. yes. It's my /style/. If you have nothing nice to say, don't say anything at all.\nIt looks life-like to me. Essentially a caricature of you. Could fool anyone."
 		},
 		"prescriptions": {
 			"name": "Prescriptions",
-			"pickup": "Increase <y>damage by 30%</c> and <y>attack speed by 40%</c> for <y>8 seconds</c>.",
-			"description": "Increase <y>damage by 30%</c> and <y>attack speed by 40%</c> for <y>8 seconds</c>.",
+			"pickup": "Increase <y>damage by 30%</c> and <y>attack speed by 40%</c> for <y>8 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Increase <y>damage by 30%</c> and <y>attack speed by 40%</c> for <y>8 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "JusticeCenter,\nScience Dept.\nVenus",
 			"date": "1/18/2056",
 			"story": "Are these pills legal? No. Are these pills helpful? Yes. Do pigs fly? No.\n\nVan-Ex increases strength and muscle mass in only 24 hours! Proven by science!\n\nMake sure to take only 2 every 8 hours, max! Otherwise you may find yourself dead!"
 		},
 		"shieldGenerator": {
 			"name": "Shield Generator",
-			"pickup": "Become <b>invincible</c> for <b>8 seconds</c>.",
-			"description": "Become <b>invincible</c> for <b>8 seconds</c>.",
+			"pickup": "Become <b>invincible</c> for <b>8 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Become <b>invincible</c> for <b>8 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Geshka Tower\n33rd Fl\nMars",
 			"date": "9/24/2056",
 			"story": "While intended for anti-artillery use, the ONI-CV117 has become wildly popular in the private sector as both a personal and automobile defense device. By protecting the user in 'hard light' that closely wraps around, shock is absorbed throughout the light, rather than by the user. However, the shield generator requires time to charge, meaning it has a short up-time. Time it wisely."
 		},
 		"unstableWatch": {
 			"name": "Unstable Watch",
-			"pickup": "<b>Stop time</c> for <y>7 seconds</c>.",
-			"description": "<b>Stop time</c> for <y>7 seconds</c>.",
+			"pickup": "<b>Stop time</c> for <y>7 seconds</c>. <spr ChatIconTimedItem></c> <b>67 sec.</c>",
+			"description": "<b>Stop time</c> for <y>7 seconds</c>. <spr ChatIconTimedItem></c> <b>67 sec.</c>",
 			"destination": "Loodi Tower,\nFloor 19,\nMars",
 			"date": "11/09/2056",
 			"story": "Doesn't work at all..! Sometimes it keeps time fine, and sometimes it sends me for a tizzy! \nI can be watchin' (haha) it and I'll see it jump 10 seconds, sometimes 15. No matter what I do it keeps doin' it, and I have no idea why. Luck for ya!\nI gotta go sit down.. feelin a bit tired.."
 		},
 		"lostDoll": {
 			"name": "Lost Doll",
-			"pickup": "Sacrifice <r>25% health</c> to <y>damage</c> an enemy for <r>500% of your maximum health</c>.",
-			"description": "Sacrifice <r>25% health</c> to <y>damage</c> an enemy for <r>500% of your maximum health</c>.",
+			"pickup": "Sacrifice <r>25% health</c> to <y>damage</c> an enemy for <r>500% of your maximum health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Sacrifice <r>25% health</c> to <y>damage</c> an enemy for <r>500% of your maximum health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Tibb Station,\nBox Unknown,\nVenus",
 			"date": "2/12/2056",
 			"story": "Get this out of my house. Please. Just take it. \n\nSince I've received this god-forsaken thing, my husband has fallen down the stairs and broke his neck, my son got hit by a bus, and my daughter has drowned in the bathtub.\nAnd.. oh god.. I swear it moves around the house. I've tried leaving it locked in a safe, and it will be out the next day. It wont burn. Cutting it has resulted in the amputation of both my arms.\n\nPlease..",
@@ -1801,40 +1801,40 @@
 		},
 		"pillagedGold": {
 			"name": "Pillaged Gold",
-			"pickup": "For <y>14 seconds</c>, every hit <y>drops gold</c>.",
-			"description": "For <y>14 seconds</c>, every hit <y>drops gold</c>.",
+			"pickup": "For <y>14 seconds</c>, every hit <y>drops gold</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "For <y>14 seconds</c>, every hit <y>drops gold</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Crisis Street,\n2008,\nMars",
 			"date": "08/8/2056",
 			"story": "Yar! All yer enemies be a source of swag for ye, hear me true. Open the bag, facing o'er direction cutthroats, and all the gold will beck out of their britches, and into ye hand. \n\nI sent this across the galactic seas fer your offer; ye'll better look in yar deepest depths for a wise trade."
 		},
 		"captainsBrooch": {
 			"name": "Captain's Brooch",
-			"pickup": "Call down a <b>chest</c> nearby. Chest cost is <y>doubled</c>.",
-			"description": "Call down a <b>chest</c> nearby. Chest cost is <y>doubled</c>.",
+			"pickup": "Call down a <b>chest</c> nearby. Chest cost is <y>doubled</c>. <spr ChatIconTimedItem></c> <b>135 sec.</c>",
+			"description": "Call down a <b>chest</c> nearby. Chest cost is <y>doubled</c>. <spr ChatIconTimedItem></c> <b>135 sec.</c>",
 			"destination": "Box 1,\nThe Lusty Lad,\nVenus",
 			"date": "9/12/2056",
 			"story": "The brooch has been passed down for many generations in my family, signifying the new captain of Contact Light. I'll actually be personally delivering this back to my home, so mark it as high priority.\n\n..hmm? There is a very small button on the back. Pressing it seems to do nothing..."
 		},
 		"theBackup": {
 			"name": "The Back-up",
-			"pickup": "Create <y>4 drones</c> to fight for you for <b>10 seconds</c>.",
-			"description": "Create <y>4 drones</c> to fight for you for <b>10 seconds</c>.",
+			"pickup": "Create <y>4 drones</c> to fight for you for <b>10 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Create <y>4 drones</c> to fight for you for <b>10 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "1511,\nSixth Ave,\nEarth",
 			"date": "11/15/1967",
 			"story": "The radio is hooked up to my personal line; call, and I'll have a whole squadron of Hellfire Drones at your position before the second ring. Just remember that once you call, your cover is blown. Emergencies only."
 		},
 		"massiveLeech": {
 			"name": "Super Massive Leech",
-			"pickup": "For <y>10 seconds</c>, every hit heals you for <g>10 health</c>.",
-			"description": "For <y>10 seconds</c>, every hit heals you for <g>10 health</c>.",
+			"pickup": "For <y>10 seconds</c>, every hit heals you for <g>10 health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "For <y>10 seconds</c>, every hit heals you for <g>10 health</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Carolyn Williams\nRare/Extinct\nStudy Center\nVenus",
 			"date": "6/19/2056",
 			"story": "Giant leeches found in the pools of HYPERION-5. Very similar to its counterpart on Earth, but it seems to have developed teeth as well, allowing it to eat meat as well as siphon blood. \n\nA few have been spotted to ballon to enormous proportions,up to the size of a small dog. Like the common leech, this has obvious medical implications. You will just have to be extra careful, or you may come back to no patient and a giant bloody leech."
 		},
 		"glowingMeteorite": {
 			"name": "Glowing Meteorite",
-			"pickup": "<b>Meteors fall from the sky</c>, damaging <r>enemies and friends</c> for <y>220% damage</c>. Lasts <y>8 seconds</c>.",
-			"description": "<b>Meteors fall from the sky</c>, damaging <r>enemies and friends</c> for <y>220% damage</c>. Lasts <y>8 seconds</c>.",
+			"pickup": "<b>Meteors fall from the sky</c>, damaging <r>enemies and friends</c> for <y>220% damage</c>. Lasts <y>8 seconds</c>. <spr ChatIconTimedItem></c> <b>70 sec.</c>",
+			"description": "<b>Meteors fall from the sky</c>, damaging <r>enemies and friends</c> for <y>220% damage</c>. Lasts <y>8 seconds</c>. <spr ChatIconTimedItem></c> <b>70 sec.</c>",
 			"destination": "8912,\n6th Planet,\nSaturn",
 			"date": "6/18/2056",
 			"story": "This hunk of space metal came shooting down and almost hit our town! Thankfully it just fell in the nearby mountains, but man did it make a loud bang. Scientists say it's a 'vanguard meteorite'; one of the first meteors from a series of many, many more. Cool!"
@@ -1881,8 +1881,8 @@
 		},
 		"nematocystNozzle": {
 			"name": "Nematocyst Nozzle",
-			"pickup": "Shoot out <y>6 nematocysts</c> that deal <y>400% damage</c>.",
-			"description": "Shoot out <y>6 nematocysts</c> that deal <y>400% damage</c>.",
+			"pickup": "Shoot out <y>6 nematocysts</c> that deal <y>400% damage</c>. <spr ChatIconTimedItem></c> <b>22 sec.</c>",
+			"description": "Shoot out <y>6 nematocysts</c> that deal <y>400% damage</c>. <spr ChatIconTimedItem></c> <b>22 sec.</c>",
 			"destination": "8800,\nGentle Valley,\nUnknown",
 			"date": "8/18/2056",
 			"story": "I scavenged the corpse of the Vagrant to better understand its biology, and I discovered this tube, or nozzle. The Vagrant must use a chemical concotion of gases and liquids in order to fire and detonate its explosive payload. I can see this being useful."
@@ -1909,7 +1909,7 @@
 		},
 		"carraraMarbleUsed": {
 			"name": "Carrara Marble",
-			"pickup": "Teleport back to your previous location."
+			"pickup": "Teleport back to your previous location. <spr ChatIconTimedItem></c> <b>45 sec.</c>"
 		},
 		"diosFriendUsed": {
 			"name": "Dio's Best Friend",
@@ -2065,8 +2065,8 @@
 		},
 		"maceReplica": {
 			"name": "Mace Replica",
-			"pickup": "Swing a <y>powerful mace</c> for <y>300% damage</c>, knocking enemies away. <b>Guaranteed to activate all on-hit\nitem effects.</c>",
-			"description": "Swing a <y>powerful mace</c> for <y>300% damage</c>, knocking enemies away. <b>Guaranteed to activate all on-hit item effects.</c>",
+			"pickup": "Swing a <y>powerful mace</c> for <y>300% damage</c>, knocking enemies away. <b>Guaranteed to activate all on-hit\nitem effects.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+			"description": "Swing a <y>powerful mace</c> for <y>300% damage</c>, knocking enemies away. <b>Guaranteed to activate all on-hit item effects.</c> <spr ChatIconTimedItem></c> <b>45 sec.</c>",
 			"destination": "Bay F5,\nLake Moore,\nMars",
 			"date": "11/10/2056",
 			"story": "Yet another antique. I don't get the hype around melees, they are just kind of boring.\nI think the point of this one was to hit harder but any cannon would be just much more efficient at that.\nAnyway, who am I to judge, right?"
@@ -2170,7 +2170,7 @@
 		},
 		"strangeBattery": {
 			"name": "Strange Battery",
-			"pickup": "Bzzzt."
+			"pickup": "Bzzzt. <spr ChatIconTimedItem></c> <b>45 sec.</c>"
 		},
 		"artifactShard": {
 			"name": "Artifact Shard",
