@@ -10,7 +10,7 @@ A primitive text mod that replaces the pickup text with the detailed description
 
 ## How to use for other languages
 - install Node.js
-- install the `json5` package
+- install the `json5` package (`npm i json5`)
 - drag and drop the desired `lang.json` file into the `lang_to_convert` folder
 - run `node main.js`
 - assuming no errors, it should be done!
