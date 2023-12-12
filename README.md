@@ -8,6 +8,12 @@ A primitive text mod that replaces the pickup text with the detailed description
 - open the `language` folder   (folder directory: `Steam\steamapps\common\Risk of Rain Returns\language`)
 - simply add the `descriptions` folder with all the other languages
 
-that is it!
+## How to use for other languages
+- install Node.js
+- install the `json5` package
+- drag and drop the desired `lang.json` file into the `lang_to_convert` folder
+- run `node main.js`
+- assuming no errors, it should be done!
 
-once you've done that, open the game and click the language icon in the top-right to switch to item descriptions!
+## How to use in-game
+- click the language icon in the top-right to switch to item descriptions
