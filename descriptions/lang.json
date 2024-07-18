@@ -1589,8 +1589,8 @@
         },
         "snowglobe": {
             "name": "Snowglobe",
-            "pickup": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>.",
-            "description": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>.",
+            "pickup": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
+            "description": "Summon a <b>snowstorm</c> that <b>freezes</c> monsters at a <y>50% chance/sec over 7 seconds</c>. <spr ChatIconTimedItem></c> <b>45 sec.</c>",
             "destination": "3rd Igloo,\nTundra Zone,\nNeptune",
             "date": "11/25/2056",
             "story": "Here you go honey, I got you a snowglobe! Do you see what's in it? Yeah, it's based off of your favorite video game! I hope you'll love it, I put a lot of effort into it. Cheers!"
@@ -2660,7 +2660,7 @@
         },
         "banditV2Boosted": {
             "name": "Quick Draw",
-            "description": "Take aim a headshot for <y>2x600% damage</c>. If this ability <r>kills an enemy</c>, gain 1 temporary stack of <b>Standoff.</c><b>Standoff</c> stacks increase <y>damage by 50%</c> each and last 20 seconds."
+            "description": "Take aim a headshot for <y>2x500% damage</c>. If this ability <r>kills an enemy</c>, gain 1 temporary stack of <b>Standoff.</c><b>Standoff</c> stacks increase <y>damage by 50%</c> each and last 20 seconds."
         },
         "huntressZ": {
             "name": "Strafe",
@@ -3284,7 +3284,7 @@
         },
         "robomando": {
             "endQuote": "...and so it left nothing behind.",
-            "description": "Your <y>Robomando</c> model G comes equipped with everything it needs to <y>extract resources</c> from hostile environments. It's patented <y>RE-WIRE</c> allows instant access to any company sanctioned containers or drone utilities.",
+            "description": "Your <y>Robomando</c> model G comes equipped with everything it needs to <y>extract resources</c> from hostile environments. Its patented <y>RE-WIRE</c> allows instant access to any company sanctioned containers or drone utilities.",
             "name": "ROBOMANDO",
             "nameUpper": "ROBOMANDO"
         }
