@@ -2,7 +2,7 @@
 A primitive text mod that replaces the pickup text with the detailed description from the logbook.
 
 ## How to install
-- download the mod by clicking the green "<> Code" button (or by [clicking this link](https://github.com/SeymourSchlong/rorr-item-descriptions/archive/refs/heads/main.zip))
+- download the mod by clicking the green "<> Code" button
 - hit the "Download Zip" button
 - browse Risk of Rain Returns' local files
 - open the `language` folder   (folder directory: `Steam\steamapps\common\Risk of Rain Returns\language`)

@@ -8,6 +8,7 @@ const isEn = langFile.hud.objective.default === 'Find the teleporter.';
 const equipmentTimes = {
 	"rottenBrain": 30,
 	"safeguardLantern": 45,
+	"snowglobe": 45,
 	"explorersKey": 90,
 	"foreignFruit": 45,
 	"instantMinefield": 45,
@@ -20,6 +21,7 @@ const equipmentTimes = {
 	"droneRepairKit": 45,
 	"thqwib": 45,
 	"dynamitePlunger": 45,
+	"maceReplica": 45,
 	"giganticAmethyst": 8,
 	"crudelyDrawnBuddy": 45,
 	"prescriptions": 45,
@@ -33,7 +35,6 @@ const equipmentTimes = {
 	"glowingMeteorite": 70,
 	"nematocystNozzle": 22,
 	"carraraMarbleUsed": 45,
-	"maceReplica": 45,
 	"strangeBattery": 45
 };
 
